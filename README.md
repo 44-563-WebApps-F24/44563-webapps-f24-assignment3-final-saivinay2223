@@ -2,5 +2,5 @@
 # WebApps-F24-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at [GitHub Pages Link](https://github.com/44-563-WebApps-F24/webapps-f24-assignment3-pages-saivinay2223/settings/pages)
+Hosted at [GitHub Pages Link](https://github.com/44-563-WebApps-F24/44563-webapps-f24-assignment3-final-saivinay2223/settings/pages)
 
